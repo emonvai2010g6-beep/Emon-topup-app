@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "ORA Topup";
+var website_name = "ORA Emon Topup";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/emon1587w";
+var telegram_channel_link = "https://t.me/oraemontopup";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/emon1587w";
+var telegram_group_link = "https://t.me/+YZFwHL7ZhTNmMWZl";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
