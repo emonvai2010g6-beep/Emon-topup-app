@@ -6,7 +6,7 @@ var website_name = "ORA Emon Topup";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/+8801344839207";
+var telegram_channel_link = "https://t.me/oraemontopup2010";
 
 // =======================================================
 // TELEGRAM GROUP LINK
