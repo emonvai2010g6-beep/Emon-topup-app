@@ -87,5 +87,7 @@
       ]
     }
   },
-  "texts": null
+  "texts": {
+    "siteName": "ORA EMON TOPUP"
+  }
 }
